@@ -11,6 +11,7 @@ body{
 .heart{
     height: 70px;
     width: 70px;
+    align-items: center;
     background: red;
     position: relative;
     transform: rotate(-45deg);
